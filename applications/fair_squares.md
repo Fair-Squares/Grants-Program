@@ -279,9 +279,9 @@ The idea of Fair Squares and work has been existing for 2 years. We wrote a [lig
 - **Stephen**: Is a software engineer with experience mainly in .net environment, web app and desktop applications for different clients in banks, health and sport. He started to learn Rust in December with the objective to help concretize the project with his development skills according to the roadmap that we will define further.
 - **Mahir**: is responsible for the market part of the FS research and the pilots with municipalities and other stakeholders. He is involved as an entrepreneur and consultant in various IT solutions such as [unlocQed](https://www.unlocQed.com) (honest recruitment) and works on [Weconomics blockchain projects](https://weconomics.org/) and is responsible for research, design and valorization. Mahir is not taking part in the grants program as his contribution is not technical, but is vital part of the team for busuiness development.
 - **Thibaut**: Thibaut will be focusing on th design and the front-end mainly in the last milestone. He brings 15+ years of experience in digital product design, user research, and product/market fit methodologies.
-- **Mrisho**: Mrisho was a part of the APAC hackathon team but didn't get to really contribute. He is an active member in different substrate ecosystem channels. Studies intelligence robotics in multimedia at Malaysia University. Has 2 years experience on software engineering.
+- **Oliver**: Software engineer with experience in web, desktop and mobile applications. Keen on competitive programming, very interested in analyzing and tackling with highly challenging technical problems.
 
-Part of the team  team together has only ideating and been working on Fair squares and has not applied for other Web3F grants.
+Part of the team together has only ideating and been working on Fair squares and has not applied for other Web3F grants.
 
 ### Team Code Repos
 
@@ -295,7 +295,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 - <https://github.com/ndkazu>
 - <https://github.com/letodunc>
 - <https://github.com/toosolid2003>
-- <https://github.com/MrishoLukamba>
+- <https://github.com/cuteolaf>
 
 ### Team LinkedIn Profiles (if available)
 
@@ -304,7 +304,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 - <https://www.linkedin.com/in/stephen-meyo-193109a/>
 - <https://www.linkedin.com/in/mahirozdemir/>
 - <https://www.linkedin.com/in/thibautsegura/>
-- <https://www.linkedin.com/in/mrisho-lukamba/>
+- <https://www.linkedin.com/in/oliver-lim-2215a8235/>
 
 ## Development Status :open_book:
 
